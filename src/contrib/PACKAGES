@@ -7,6 +7,18 @@ License: MIT + file LICENSE
 MD5sum: cd10bc9a43ccea458d19191612636815
 NeedsCompilation: no
 
+Package: didehpc
+Version: 0.1.1
+Depends: R (>= 3.2.2)
+Imports: crayon, context (>= 0.1.1), getPass, httr (>= 1.0.0),
+        provisionr (>= 0.1.1), queuer (>= 0.1.0), rematch, storr (>=
+        1.1.0), whisker, xml2 (>= 1.0.0)
+Suggests: buildr (>= 0.0.3), drat, knitr, redux, rmarkdown, rrq (>=
+        0.1.0), syncr, testthat
+License: MIT + file LICENSE
+MD5sum: 1e1441c3bbd9dbbaca79a94d4c303704
+NeedsCompilation: no
+
 Package: provisionr
 Version: 0.1.3
 Imports: R6, curl, drat, prettyunits, remotes, rversions, progress,
