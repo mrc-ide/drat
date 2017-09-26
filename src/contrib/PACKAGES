@@ -37,3 +37,12 @@ License: MIT + file LICENSE
 MD5sum: 981b70091447b0a60f83576d5e9aeadb
 NeedsCompilation: no
 
+Package: rrq
+Version: 0.1.0
+Imports: R6, context (>= 0.1.1), ids, lazyeval, queuer (>= 0.1.0),
+        redux (>= 0.5.1)
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: 41a96618f7057791edb049bbab747ba5
+NeedsCompilation: no
+
