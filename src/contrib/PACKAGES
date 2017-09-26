@@ -28,12 +28,12 @@ MD5sum: 1e1441c3bbd9dbbaca79a94d4c303704
 NeedsCompilation: no
 
 Package: provisionr
-Version: 0.1.3
+Version: 0.1.4
 Imports: R6, curl, drat, prettyunits, remotes, rversions, progress,
         storr (>= 1.1.0), withr
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: 6abb24da5cd3cd15055beed644715795
+MD5sum: fccb8e66305c94e02639587b4baf58a1
 NeedsCompilation: no
 
 Package: queuer
