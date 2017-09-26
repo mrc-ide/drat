@@ -7,12 +7,12 @@ MD5sum: 1b4be5a00d686eaece97e429e22a0831
 NeedsCompilation: no
 
 Package: context
-Version: 0.1.2
+Version: 0.1.3
 Depends: R (>= 3.2.2)
-Imports: crayon, ids, storr (>= 1.1.0)
-Suggests: knitr, parallel, provisionr (>= 0.1.1), rmarkdown, testthat
+Imports: crayon, ids, storr (>= 1.1.1)
+Suggests: knitr, parallel, provisionr (>= 0.1.4), rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: cd10bc9a43ccea458d19191612636815
+MD5sum: 1ba6a1c2f7ec302a1e92715eaee93652
 NeedsCompilation: no
 
 Package: didehpc
