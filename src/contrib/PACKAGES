@@ -1,3 +1,11 @@
+Package: buildr
+Version: 0.0.3
+Imports: R6, httr, jsonlite
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: 1b4be5a00d686eaece97e429e22a0831
+NeedsCompilation: no
+
 Package: context
 Version: 0.1.2
 Depends: R (>= 3.2.2)
