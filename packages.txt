@@ -1,0 +1,9 @@
+# Currently nothing is stable
+mrc-ide/provisionr
+mrc-ide/context
+mrc-ide/queuer
+mrc-ide/didehpc
+
+mrc-ide/rrq
+mrc-ide/syncr
+mrc-ide/buildr
