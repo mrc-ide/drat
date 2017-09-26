@@ -55,9 +55,9 @@ MD5sum: 41a96618f7057791edb049bbab747ba5
 NeedsCompilation: no
 
 Package: syncr
-Version: 0.0.1
+Version: 0.0.3
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: 8bfcf84db8c2efb9e7380add1d2f15b8
+MD5sum: 5b221231a79dbaef179a6b9812d8a540
 NeedsCompilation: no
 
