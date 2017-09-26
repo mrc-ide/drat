@@ -16,3 +16,12 @@ License: MIT + file LICENSE
 MD5sum: 6abb24da5cd3cd15055beed644715795
 NeedsCompilation: no
 
+Package: queuer
+Version: 0.1.0
+Depends: R (>= 3.2.2)
+Imports: R6, context (>= 0.1.1), ids, lazyeval, progress (>= 1.1.1)
+Suggests: processx, seagull, testthat
+License: MIT + file LICENSE
+MD5sum: 981b70091447b0a60f83576d5e9aeadb
+NeedsCompilation: no
+
