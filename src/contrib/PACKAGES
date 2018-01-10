@@ -6,6 +6,13 @@ License: MIT + file LICENSE
 MD5sum: 1b4be5a00d686eaece97e429e22a0831
 NeedsCompilation: no
 
+Package: cinterpolate
+Version: 0.0.1
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: 84691b186044a6bcd245a847266e9a58
+NeedsCompilation: yes
+
 Package: context
 Version: 0.1.3
 Depends: R (>= 3.2.2)
