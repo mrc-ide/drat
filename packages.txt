@@ -7,3 +7,9 @@ mrc-ide/didehpc
 mrc-ide/rrq
 mrc-ide/syncr@09d2cda
 mrc-ide/buildr@bf8d9ee
+
+# ODE bits
+mrc-ide/odin
+richfitz/dde
+richfitz/rcmdshlib
+mrc-ide/cinterpolate
