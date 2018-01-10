@@ -63,6 +63,14 @@ License: MIT + file LICENSE
 MD5sum: 3fc0271fef8d82b9a22f3475b81cf08b
 NeedsCompilation: no
 
+Package: rcmdshlib
+Version: 0.0.2
+Imports: crayon
+Suggests: testthat, knitr, rmarkdown
+License: MIT + file LICENSE
+MD5sum: ccd375c625c0c1830f204bf27bc01c98
+NeedsCompilation: no
+
 Package: rrq
 Version: 0.1.0
 Imports: R6, context (>= 0.1.1), ids, lazyeval, queuer (>= 0.1.0),
