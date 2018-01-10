@@ -27,6 +27,14 @@ License: MIT + file LICENSE
 MD5sum: da4f9bbb2679579565eaf55a715f92fb
 NeedsCompilation: no
 
+Package: odin
+Version: 0.0.2
+Imports: R6, cinterpolate, crayon, deSolve
+Suggests: dde (>= 0.0.5), knitr, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: 96c1427bb7eaffb0f7685912e9bd149b
+NeedsCompilation: no
+
 Package: provisionr
 Version: 0.1.4
 Imports: R6, curl, drat, prettyunits, remotes, rversions, progress,
