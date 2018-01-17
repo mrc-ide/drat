@@ -1,5 +1,5 @@
 # Currently nothing is stable
-mrc-ide/provisionr@cffb85c
+mrc-ide/provisionr@f762bec
 mrc-ide/context@77c9c30
 mrc-ide/queuer@2195a19
 mrc-ide/didehpc
