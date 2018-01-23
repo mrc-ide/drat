@@ -1,7 +1,7 @@
 # Currently nothing is stable
-mrc-ide/provisionr@f762bec
-mrc-ide/context@77c9c30
-mrc-ide/queuer@2195a19
+mrc-ide/provisionr
+mrc-ide/context
+mrc-ide/queuer
 mrc-ide/didehpc
 
 mrc-ide/rrq
@@ -9,7 +9,7 @@ mrc-ide/syncr@09d2cda
 mrc-ide/buildr@bf8d9ee
 
 # ODE bits
-mrc-ide/odin
+mrc-ide/odin@7c8931e
 richfitz/dde
 richfitz/rcmdshlib
 mrc-ide/cinterpolate
