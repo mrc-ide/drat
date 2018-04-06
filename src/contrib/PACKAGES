@@ -10,7 +10,7 @@ Package: cinterpolate
 Version: 0.0.1
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: 84691b186044a6bcd245a847266e9a58
+MD5sum: 02ba5583b581fc5534bf8da861d4d028
 NeedsCompilation: yes
 
 Package: context
