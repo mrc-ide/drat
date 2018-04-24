@@ -33,7 +33,7 @@ MD5sum: ee513388532e842b165e4f9658592b61
 NeedsCompilation: yes
 
 Package: didehpc
-Version: 0.1.6
+Version: 0.2.0
 Depends: R (>= 3.2.2)
 Imports: crayon, context (>= 0.1.3), getPass, httr (>= 1.0.0),
         provisionr (>= 0.1.4), queuer (>= 0.1.1), rematch, storr (>=
@@ -41,7 +41,7 @@ Imports: crayon, context (>= 0.1.3), getPass, httr (>= 1.0.0),
 Suggests: buildr (>= 0.0.3), drat, knitr, redux, rmarkdown, rrq (>=
         0.1.0), syncr (>= 0.0.3), testthat
 License: MIT + file LICENSE
-MD5sum: d047e2aaa97bb6cb31d4a612f96b4f66
+MD5sum: 0fd6e7fa5e394526686d1dd4d7a8d306
 NeedsCompilation: no
 
 Package: odin
@@ -93,4 +93,3 @@ Suggests: testthat
 License: MIT + file LICENSE
 MD5sum: 5b221231a79dbaef179a6b9812d8a540
 NeedsCompilation: no
-
