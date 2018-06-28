@@ -62,12 +62,12 @@ MD5sum: 05537a96954dcc605542bef3c742edfe
 NeedsCompilation: no
 
 Package: queuer
-Version: 0.1.1
+Version: 0.1.2
 Depends: R (>= 3.2.2)
-Imports: R6, context (>= 0.1.3), ids, lazyeval, progress (>= 1.1.1)
+Imports: R6, context (>= 0.1.4), ids, lazyeval, progress (>= 1.1.1)
 Suggests: processx, seagull, testthat
 License: MIT + file LICENSE
-MD5sum: 3fc0271fef8d82b9a22f3475b81cf08b
+MD5sum: fce51ea2a0307bc3fcf8987913455f01
 NeedsCompilation: no
 
 Package: rcmdshlib
