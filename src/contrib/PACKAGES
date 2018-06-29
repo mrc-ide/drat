@@ -53,12 +53,12 @@ MD5sum: a6a179339adb68a4f1a7c7bddc217406
 NeedsCompilation: no
 
 Package: provisionr
-Version: 0.1.8
+Version: 0.1.9
 Imports: R6, curl, drat, prettyunits, progress, remotes, rversions,
         storr (>= 1.1.0), withr, yaml
 Suggests: testthat, zip
 License: MIT + file LICENSE
-MD5sum: 2a53ffc8ac326cd6ecf997bafd7bfb68
+MD5sum: 1069d93590d83dc4d96ef11e57759ceb
 NeedsCompilation: no
 
 Package: queuer
