@@ -58,7 +58,7 @@ Imports: R6, curl, drat, prettyunits, progress, remotes, rversions,
         storr (>= 1.1.0), withr, yaml
 Suggests: testthat, zip
 License: MIT + file LICENSE
-MD5sum: 3db1365516401b5b4dd8bcdd2fd39930
+MD5sum: e1ec7f9a4f7a02abb735517e0c7d0b41
 NeedsCompilation: no
 
 Package: queuer
