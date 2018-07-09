@@ -54,11 +54,11 @@ NeedsCompilation: no
 
 Package: provisionr
 Version: 0.1.10
-Imports: R6, curl, drat, prettyunits, progress, remotes, rversions,
-        storr (>= 1.1.0), withr, yaml
+Imports: R6, curl, drat, prettyunits, progress (>= 1.2.0), remotes,
+        rversions, storr (>= 1.1.0), withr, yaml
 Suggests: testthat, zip
 License: MIT + file LICENSE
-MD5sum: df7f0f911e6e46e46741c4061ba1dcf5
+MD5sum: 6888894102beee819104c7d8cf37488c
 NeedsCompilation: no
 
 Package: queuer
