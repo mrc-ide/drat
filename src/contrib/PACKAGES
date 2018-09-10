@@ -93,3 +93,11 @@ Suggests: testthat
 License: MIT + file LICENSE
 MD5sum: 5b221231a79dbaef179a6b9812d8a540
 NeedsCompilation: no
+
+Package: vaultr
+Version: 0.0.3
+Imports: R6, httr, jsonlite, prettyunits
+Suggests: cyphr, processx, testthat, withr
+License: MIT + file LICENSE
+MD5sum: 8db4ff59e0e0efe28f23e79864693d08
+NeedsCompilation: no
