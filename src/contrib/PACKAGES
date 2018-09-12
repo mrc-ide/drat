@@ -87,6 +87,16 @@ License: MIT + file LICENSE
 MD5sum: c5bd7782f3e19fd8162231a3ed1c6d71
 NeedsCompilation: no
 
+Package: storr
+Version: 1.2.1
+Depends: R (>= 3.1.0)
+Imports: R6 (>= 2.1.0), digest
+Suggests: DBI (>= 0.6), RSQLite (>= 1.1-2), RPostgres, knitr, mockr,
+        parallel, progress, rbenchmark, testthat (>= 1.0.0)
+License: MIT + file LICENSE
+MD5sum: 908c828481ee76bf2f1d689cb9dfac90
+NeedsCompilation: no
+
 Package: syncr
 Version: 0.0.3
 Suggests: testthat
