@@ -23,13 +23,13 @@ MD5sum: 65fbb5fabea6f7c20656e6b92c642c5e
 NeedsCompilation: no
 
 Package: dde
-Version: 0.0.5
+Version: 0.0.6
 Depends: R (>= 3.0.2)
-LinkingTo: ring (>= 0.0.5)
-Suggests: deSolve, knitr, microbenchmark, rcmdshlib, rmarkdown,
-        testthat
+LinkingTo: ring (>= 1.0.0)
+Suggests: deSolve, knitr, microbenchmark, rcmdshlib (>= 0.0.2),
+        rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: ee513388532e842b165e4f9658592b61
+MD5sum: 9cb96f0a31c3808522818608e9648ce2
 NeedsCompilation: yes
 
 Package: didehpc
