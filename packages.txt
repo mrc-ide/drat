@@ -1,4 +1,4 @@
-# Currently nothing is stable
+# Master here is good to use
 mrc-ide/provisionr
 mrc-ide/context
 mrc-ide/queuer
@@ -9,7 +9,11 @@ mrc-ide/syncr@09d2cda
 mrc-ide/buildr@bf8d9ee
 
 # ODE bits
-mrc-ide/odin@7c8931e
+mrc-ide/odin
 richfitz/dde
 richfitz/rcmdshlib
 mrc-ide/cinterpolate
+
+# other
+vimc/vaultr
+richfitz/storr
