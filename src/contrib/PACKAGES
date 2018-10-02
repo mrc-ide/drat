@@ -7,10 +7,10 @@ MD5sum: 1b4be5a00d686eaece97e429e22a0831
 NeedsCompilation: no
 
 Package: cinterpolate
-Version: 1.0.0
-Suggests: testthat
+Version: 0.9.1
+Suggests: knitr, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: 7d4aa8b1efd32e8c7a7a963e45fce678
+MD5sum: 4005eb90d7e6ef34a7b4e0745b4722e6
 NeedsCompilation: yes
 
 Package: context
