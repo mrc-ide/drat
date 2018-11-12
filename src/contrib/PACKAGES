@@ -45,11 +45,11 @@ MD5sum: f454877cda1579b5b553a8e570d7bb41
 NeedsCompilation: no
 
 Package: odin
-Version: 0.1.1
+Version: 0.1.2
 Imports: R6, cinterpolate (>= 0.9.0), crayon, deSolve, digest, ring
 Suggests: dde (>= 0.0.6), knitr, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: a6683dfe21e75e51db8ee7527d4f8f9e
+MD5sum: 15349c72882c33540fdfdeebd7b7d2f3
 NeedsCompilation: no
 
 Package: provisionr
