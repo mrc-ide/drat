@@ -50,7 +50,7 @@ Imports: dde (>= 0.0.6), dygraphs, jsonlite, markdown, odin (>=
         0.0.10), shiny (>= 1.0.4), shinyAce, yaml
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: bfcccbc727d2da3be67d2e5d97cb60a0
+MD5sum: 8b576ea40a9180b9987189cc10005cf5
 NeedsCompilation: no
 
 Package: odin
