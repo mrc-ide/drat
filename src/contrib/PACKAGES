@@ -44,6 +44,15 @@ License: MIT + file LICENSE
 MD5sum: 5957ff883a25ca2f015bf27f08bfe9b3
 NeedsCompilation: no
 
+Package: odin.ui
+Version: 0.1.0
+Imports: dde (>= 0.0.6), dygraphs, jsonlite, markdown, odin (>=
+        0.0.10), shiny (>= 1.0.4), shinyAce, yaml
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: bd046272387726972f5b9bb62321f1bd
+NeedsCompilation: no
+
 Package: odin
 Version: 0.1.3
 Imports: R6, cinterpolate (>= 0.9.0), crayon, deSolve, digest, ring
