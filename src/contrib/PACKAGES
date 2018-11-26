@@ -29,7 +29,7 @@ LinkingTo: ring (>= 1.0.0)
 Suggests: deSolve, knitr, microbenchmark, rcmdshlib (>= 0.0.2),
         rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: a61d5fcbba4a85e977cb1df44fff1632
+MD5sum: ecb9b9544c2bc6438e5dd1f46cedbf0c
 NeedsCompilation: yes
 
 Package: didehpc
