@@ -2,7 +2,7 @@
 mrc-ide/provisionr
 mrc-ide/context
 mrc-ide/queuer
-mrc-ide/didehpc
+mrc-ide/didehpc {"vignettes": false}
 
 mrc-ide/rrq
 mrc-ide/syncr@09d2cda
@@ -13,7 +13,9 @@ mrc-ide/odin
 richfitz/dde
 richfitz/rcmdshlib
 mrc-ide/cinterpolate
+mrc-ide/odin.ui
 
 # other
 vimc/vaultr
 richfitz/storr
+reconhub/nomad@usb
