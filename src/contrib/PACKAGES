@@ -44,6 +44,14 @@ License: MIT + file LICENSE
 MD5sum: 3cfa38037381ba3ebef7ca0631bd8b35
 NeedsCompilation: no
 
+Package: nomad
+Version: 0.0.1
+Imports: provisionr (>= 0.1.5), yaml
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: 66f6985f13c5908638501d33928970a7
+NeedsCompilation: no
+
 Package: odin.ui
 Version: 0.1.3
 Imports: dde (>= 0.0.6), dygraphs, jsonlite, markdown, odin (>=
