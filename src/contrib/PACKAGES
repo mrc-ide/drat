@@ -10,7 +10,7 @@ Package: cinterpolate
 Version: 0.9.1
 Suggests: knitr, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: 4005eb90d7e6ef34a7b4e0745b4722e6
+MD5sum: 47d2ba288540776912fd431389c22786
 NeedsCompilation: yes
 
 Package: context
