@@ -1,3 +1,10 @@
+Package: beers
+Version: 0.1.0
+Suggests: knitr, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: fa4f7f8e7464755fc49d3d42b50cd92c
+NeedsCompilation: no
+
 Package: buildr
 Version: 0.0.3
 Imports: R6, httr, jsonlite
