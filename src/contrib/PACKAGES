@@ -35,7 +35,7 @@ Depends: R (>= 3.1.0)
 LinkingTo: ring (>= 1.0.0)
 Suggests: deSolve, knitr, microbenchmark, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: 6874715bb7e1c484d4a9243a608bfc13
+MD5sum: 01c0397cc93c185c445901bbcee3db3d
 NeedsCompilation: yes
 
 Package: didehpc
