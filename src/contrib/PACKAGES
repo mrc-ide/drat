@@ -118,7 +118,7 @@ Imports: R6 (>= 2.1.0), digest
 Suggests: DBI (>= 0.6), RSQLite (>= 1.1-2), RPostgres, knitr, mockr,
         parallel, progress, rbenchmark, testthat (>= 1.0.0)
 License: MIT + file LICENSE
-MD5sum: 05236a21405805d3f2acc99f9d6f73f6
+MD5sum: 4ffee055396d7f1ad034274401618805
 NeedsCompilation: yes
 
 Package: syncr
