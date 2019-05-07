@@ -12,10 +12,11 @@ mrc-ide/buildr@bf8d9ee
 mrc-ide/odin
 richfitz/dde
 richfitz/rcmdshlib
-mrc-ide/cinterpolate
+# mrc-ide/cinterpolate # on cran with v1.0.0 so disable for now
 mrc-ide/odin.ui
 
 # other
 vimc/vaultr
-richfitz/storr
-reconhub/nomad@usb
+# richfitz/storr
+reconhub/nomad@from_directory
+mrc-ide/beers
