@@ -59,12 +59,13 @@ MD5sum: 66f6985f13c5908638501d33928970a7
 NeedsCompilation: no
 
 Package: odin.ui
-Version: 0.1.3
-Imports: dde (>= 0.0.6), dygraphs, jsonlite, markdown, odin (>=
-        0.0.10), shiny (>= 1.0.4), shinyAce, yaml
-Suggests: testthat
+Version: 0.1.7
+Imports: dde (>= 0.0.6), dfoptim, dygraphs, ids, jsonlite, plotly (>=
+        4.9.0), markdown, odin (>= 0.2.0), shiny (>= 1.0.4), shinyAce,
+        shinycssloaders, shinyjqui, shinyjs, subplex, yaml
+Suggests: RSelenium, callr, stevedore, testthat
 License: MIT + file LICENSE
-MD5sum: 82b3951229add13bbe48253eb5601d47
+MD5sum: e3c822ccbbe6c7aedcbed29719efaff6
 NeedsCompilation: no
 
 Package: odin
