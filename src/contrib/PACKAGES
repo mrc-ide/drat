@@ -50,6 +50,14 @@ License: MIT + file LICENSE
 MD5sum: 8d45aa2b1a457ed8b6a680d11cc2347a
 NeedsCompilation: no
 
+Package: jsonvalidate
+Version: 1.2.1
+Imports: V8
+Suggests: knitr, jsonlite, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: 2e979e0300639b726a8cfa133b09e0ed
+NeedsCompilation: no
+
 Package: nomad
 Version: 0.0.1
 Imports: provisionr (>= 0.1.5), yaml
