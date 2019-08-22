@@ -21,3 +21,5 @@ vimc/vaultr
 reconhub/nomad@from_directory
 mrc-ide/beers
 mrc-ide/specio
+
+ropensci/jsonvalidate
