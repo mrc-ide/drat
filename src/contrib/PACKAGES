@@ -123,11 +123,11 @@ MD5sum: 5dcb0bfb6595e7bf2c684212516a3efe
 NeedsCompilation: no
 
 Package: specio
-Version: 0.1.1
+Version: 0.1.2
 Imports: beers, xml2, yaml
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 23e0462f3083a8586467d78154048886
+MD5sum: 5dcb5b50283c23d2adea4ef49640da89
 NeedsCompilation: no
 
 Package: syncr
