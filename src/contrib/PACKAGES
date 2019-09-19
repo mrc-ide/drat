@@ -100,9 +100,9 @@ Package: queuer
 Version: 0.1.2
 Depends: R (>= 3.2.2)
 Imports: R6, context (>= 0.1.4), ids, lazyeval, progress (>= 1.1.1)
-Suggests: processx, seagull, testthat
+Suggests: processx, storr, testthat, thor
 License: MIT + file LICENSE
-MD5sum: fce51ea2a0307bc3fcf8987913455f01
+MD5sum: 8cbc35373555fb9a8ede938f0f623599
 NeedsCompilation: no
 
 Package: rcmdshlib
