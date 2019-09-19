@@ -52,11 +52,11 @@ MD5sum: b8edbd5130a9b7a992b33958feffd1c4
 NeedsCompilation: no
 
 Package: jsonvalidate
-Version: 1.2.1
+Version: 1.2.2
 Imports: V8
 Suggests: knitr, jsonlite, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: 2e979e0300639b726a8cfa133b09e0ed
+MD5sum: 383646c5a50cb1d27b3d655d30f50d79
 NeedsCompilation: no
 
 Package: nomad
