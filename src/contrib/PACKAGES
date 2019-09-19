@@ -119,7 +119,7 @@ Imports: R6, context (>= 0.1.4), ids, lazyeval, queuer (>= 0.1.0),
         redux (>= 1.0.0)
 Suggests: heartbeatr, testthat
 License: MIT + file LICENSE
-MD5sum: c5bd7782f3e19fd8162231a3ed1c6d71
+MD5sum: 5dcb0bfb6595e7bf2c684212516a3efe
 NeedsCompilation: no
 
 Package: specio
