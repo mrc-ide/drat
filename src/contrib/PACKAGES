@@ -39,6 +39,13 @@ License: MIT + file LICENSE
 MD5sum: ac1e13c22bf1ad9ed61c6f17fa966bf0
 NeedsCompilation: yes
 
+Package: defer
+Version: 0.1.0
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: f84b8eb8dbda28bad2120be99c0adb50
+NeedsCompilation: no
+
 Package: didehpc
 Version: 0.2.9
 Depends: R (>= 3.2.2)
