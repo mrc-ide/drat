@@ -70,10 +70,10 @@ NeedsCompilation: no
 
 Package: nomad
 Version: 0.0.1
-Imports: provisionr (>= 0.1.5), yaml
+Imports: provisionr (>= 0.1.5), yaml, utils
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: 66f6985f13c5908638501d33928970a7
+MD5sum: f9ee82f651e141c7edb61e79881f064c
 NeedsCompilation: no
 
 Package: odin.ui
