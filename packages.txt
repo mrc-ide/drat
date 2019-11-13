@@ -19,7 +19,7 @@ mrc-ide/odin.ui
 # other
 vimc/vaultr
 # richfitz/storr
-reconhub/nomad@from_directory
+reconhub/nomad
 mrc-ide/beers
 mrc-ide/specio
 mrc-ide/traduire@prototype
