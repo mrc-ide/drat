@@ -145,6 +145,14 @@ License: MIT + file LICENSE
 MD5sum: 5b221231a79dbaef179a6b9812d8a540
 NeedsCompilation: no
 
+Package: traduire
+Version: 0.0.1
+Imports: V8, R6
+Suggests: jsonlite, knitr, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: cf6832825bcb02c89c48815f245522a1
+NeedsCompilation: no
+
 Package: vaultr
 Version: 1.0.2
 Imports: R6, getPass, httr, jsonlite
