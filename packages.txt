@@ -4,7 +4,7 @@ mrc-ide/context
 mrc-ide/queuer
 mrc-ide/didehpc {"vignettes": false}
 
-richfitz/heartbeatr
+mrc-ide/heartbeatr
 mrc-ide/rrq
 mrc-ide/syncr@09d2cda
 mrc-ide/buildr@bf8d9ee
