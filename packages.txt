@@ -5,7 +5,7 @@ mrc-ide/queuer
 mrc-ide/didehpc {"vignettes": false}
 
 mrc-ide/heartbeatr
-mrc-ide/rrq
+mrc-ide/rrq@83f4811
 mrc-ide/syncr@09d2cda
 mrc-ide/buildr@bf8d9ee
 
