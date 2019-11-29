@@ -134,7 +134,7 @@ Version: 0.2.2
 Imports: R6, docopt, ids, progress, redux (>= 1.0.0)
 Suggests: heartbeatr, storr, testthat
 License: MIT + file LICENSE
-MD5sum: 320c412dc36a0cfc3b38d130b9ba3f1f
+MD5sum: 91e5282791aeaf14b7d75125b6266868
 NeedsCompilation: no
 
 Package: specio
