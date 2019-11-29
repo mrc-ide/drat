@@ -130,11 +130,12 @@ MD5sum: ccd375c625c0c1830f204bf27bc01c98
 NeedsCompilation: no
 
 Package: rrq
-Version: 0.2.2
-Imports: R6, docopt, ids, progress, redux (>= 1.0.0)
-Suggests: heartbeatr, storr, testthat
+Version: 0.2.0
+Imports: R6, context (>= 0.1.4), docopt, ids, lazyeval, queuer (>=
+        0.1.0), redux (>= 1.0.0)
+Suggests: heartbeatr, testthat
 License: MIT + file LICENSE
-MD5sum: 91e5282791aeaf14b7d75125b6266868
+MD5sum: a84e231ab9ffc35ef77e51caba53b7d5
 NeedsCompilation: no
 
 Package: specio
