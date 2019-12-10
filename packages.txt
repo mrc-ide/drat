@@ -22,7 +22,7 @@ vimc/vaultr
 reconhub/nomad
 mrc-ide/beers
 mrc-ide/specio
-reside-ic/traduire@prototype
+reside-ic/traduire
 reside-ic/defer
 
 ropensci/jsonvalidate
