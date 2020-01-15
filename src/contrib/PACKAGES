@@ -155,11 +155,11 @@ MD5sum: 5b221231a79dbaef179a6b9812d8a540
 NeedsCompilation: no
 
 Package: traduire
-Version: 0.0.3
+Version: 0.0.4
 Imports: V8, R6, glue
 Suggests: jsonlite, knitr, mockery, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: 7964c9ab55a3d5ea43e533919f59b573
+MD5sum: 3e38b8a047f8edb3d8509bbe72eecffa
 NeedsCompilation: no
 
 Package: vaultr
