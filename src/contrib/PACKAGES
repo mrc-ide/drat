@@ -81,7 +81,7 @@ Version: 1.2.2
 Imports: V8
 Suggests: knitr, jsonlite, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: c35b3dc420f637aad9303f095cc7360d
+MD5sum: df6ae173b8cbb364f1d8501214b26b38
 NeedsCompilation: no
 
 Package: nomad
