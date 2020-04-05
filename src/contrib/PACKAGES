@@ -31,12 +31,12 @@ MD5sum: 3620575a22d37bbab745d186e7d29e0a
 NeedsCompilation: no
 
 Package: dde
-Version: 1.0.1
+Version: 1.0.2
 Depends: R (>= 3.1.0)
 LinkingTo: ring (>= 1.0.0)
 Suggests: deSolve, knitr, microbenchmark, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: a628e67b09959d64df2eea02148eb1da
+MD5sum: 7b4f4c4b6c95e333333a3ff2cb85f84c
 NeedsCompilation: yes
 
 Package: defer
