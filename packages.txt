@@ -1,3 +1,5 @@
+richfitz/drat.builder
+
 # Master here is good to use
 mrc-ide/provisionr
 mrc-ide/context
@@ -15,6 +17,7 @@ richfitz/dde
 richfitz/rcmdshlib
 # mrc-ide/cinterpolate # on cran with v1.0.0 so disable for now
 mrc-ide/odin.ui
+mrc-ide/odin.js
 
 # other
 vimc/vaultr
