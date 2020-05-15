@@ -121,6 +121,14 @@ License: MIT + file LICENSE
 MD5sum: fe2554e07bb5eb7fbf3e3c86d26b9037
 NeedsCompilation: no
 
+Package: pkgapi
+Version: 0.0.7
+Imports: R6, jsonlite, jsonvalidate (>= 1.2.2), plumber
+Suggests: testthat, withr
+License: MIT + file LICENSE
+MD5sum: 74a17cd142a984e24de03bd3497c552f
+NeedsCompilation: no
+
 Package: provisionr
 Version: 0.1.13
 Imports: R6, curl, drat, prettyunits, progress (>= 1.2.0), remotes,
