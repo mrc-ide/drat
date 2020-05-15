@@ -118,7 +118,7 @@ Imports: R6, cinterpolate (>= 1.0.0), crayon, deSolve, digest,
 Suggests: dde (>= 1.0.0), jsonvalidate (>= 1.1.0), knitr, rmarkdown,
         testthat
 License: MIT + file LICENSE
-MD5sum: 6fc76028195964e63d1a0511be588c31
+MD5sum: fe2554e07bb5eb7fbf3e3c86d26b9037
 NeedsCompilation: no
 
 Package: provisionr
