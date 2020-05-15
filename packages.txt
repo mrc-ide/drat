@@ -27,5 +27,6 @@ mrc-ide/beers
 mrc-ide/specio
 reside-ic/traduire
 reside-ic/defer
+reside-ic/pkgapi
 
 ropensci/jsonvalidate
