@@ -64,7 +64,7 @@ Depends: R (>= 3.2.0)
 Imports: crayon, docopt, drat, jsonlite, whisker
 Suggests: testthat
 License: BSD_2_clause + file LICENSE
-MD5sum: f9e6f775256ffd3883d251abbf7e3f0b
+MD5sum: 8e3b29df1d422cdceeca7bef4bad75b2
 NeedsCompilation: no
 
 Package: heartbeatr
