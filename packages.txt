@@ -30,3 +30,8 @@ reside-ic/defer
 reside-ic/pkgapi
 
 ropensci/jsonvalidate
+
+# sircovid support
+mrc-ide/dust {"vignettes": false}
+mrc-ide/odin.dust {"vignettes": false}
+mrc-ide/mcstate {"vignettes": false}
