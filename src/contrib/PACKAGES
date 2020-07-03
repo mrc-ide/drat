@@ -93,6 +93,14 @@ License: MIT + file LICENSE
 MD5sum: df6ae173b8cbb364f1d8501214b26b38
 NeedsCompilation: no
 
+Package: mcstate
+Version: 0.0.3
+Imports: dust (>= 0.0.2), coda, mvtnorm, viridis
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: 322f10e43c4de24033ef5f981df35478
+NeedsCompilation: no
+
 Package: nomad
 Version: 0.0.1
 Imports: provisionr (>= 0.1.5), yaml, utils
