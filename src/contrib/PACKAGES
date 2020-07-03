@@ -67,6 +67,15 @@ License: BSD_2_clause + file LICENSE
 MD5sum: 8e3b29df1d422cdceeca7bef4bad75b2
 NeedsCompilation: no
 
+Package: dust
+Version: 0.1.0
+Imports: R6, Rcpp, glue, pkgbuild
+LinkingTo: Rcpp
+Suggests: mockery, pkgload, testthat, withr
+License: MIT + file LICENSE
+MD5sum: e821981ad193ca47ebfd9ea565a78f2b
+NeedsCompilation: yes
+
 Package: heartbeatr
 Version: 0.4.0
 Depends: R (>= 3.1.2)
