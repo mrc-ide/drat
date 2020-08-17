@@ -137,13 +137,13 @@ MD5sum: c77bd804bbe5e4903aae1d6d260d5ad3
 NeedsCompilation: no
 
 Package: odin
-Version: 1.0.5
+Version: 1.0.6
 Imports: R6, cinterpolate (>= 1.0.0), crayon, deSolve, digest,
         jsonlite, ring
 Suggests: dde (>= 1.0.0), jsonvalidate (>= 1.1.0), knitr, rmarkdown,
         testthat
 License: MIT + file LICENSE
-MD5sum: a31b8fcaaa3ea513844790433165dc6e
+MD5sum: 192890f260f739d99d5337b2020a763c
 NeedsCompilation: no
 
 Package: pkgapi
