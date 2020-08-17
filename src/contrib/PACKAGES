@@ -111,11 +111,12 @@ MD5sum: 3761f26a699c074fe0fb5fdd7fe82ee4
 NeedsCompilation: no
 
 Package: odin.dust
-Version: 0.0.3
-Imports: R6, dust (>= 0.0.6), odin
-Suggests: Rcpp, dde, mockery, pkgload, testthat
+Version: 0.0.9
+Imports: R6, dust (>= 0.4.1), odin
+Suggests: brio, cpp11, decor, dde, mockery, pkgload, testthat, tibble,
+        vctrs
 License: MIT + file LICENSE
-MD5sum: 022d431ab7a54c6e6978b8927a1f6a23
+MD5sum: 0e06d8e33274dbdd7506a63e5e7b2a12
 NeedsCompilation: no
 
 Package: odin.js
