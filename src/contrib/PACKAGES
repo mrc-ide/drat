@@ -106,7 +106,7 @@ Version: 0.0.1
 Imports: provisionr (>= 0.1.5), yaml, utils
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: f9ee82f651e141c7edb61e79881f064c
+MD5sum: 3761f26a699c074fe0fb5fdd7fe82ee4
 NeedsCompilation: no
 
 Package: odin.dust
