@@ -95,11 +95,11 @@ MD5sum: df6ae173b8cbb364f1d8501214b26b38
 NeedsCompilation: no
 
 Package: mcstate
-Version: 0.2.3
-Imports: R6, dust (>= 0.4.5)
+Version: 0.2.5
+Imports: R6, dust (>= 0.4.6), progress
 Suggests: brio, coda, decor, mvtnorm, testthat, tibble, vctrs, withr
 License: MIT + file LICENSE
-MD5sum: cae07e0527ce30fcabc92a5f9bb5ac2b
+MD5sum: fdf327ef7cfed133a4b72ae8d2bbabe1
 NeedsCompilation: no
 
 Package: nomad
