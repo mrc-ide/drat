@@ -14,11 +14,50 @@ MD5sum: 1b4be5a00d686eaece97e429e22a0831
 NeedsCompilation: no
 
 Package: cinterpolate
+Version: 0.0.1
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: 02ba5583b581fc5534bf8da861d4d028
+NeedsCompilation: yes
+
+Package: cinterpolate
+Version: 0.9.1
+Suggests: knitr, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: 47d2ba288540776912fd431389c22786
+NeedsCompilation: yes
+
+Package: cinterpolate
+Version: 0.9.2
+Suggests: knitr, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: 661656db14d136e4a83d900b074243f7
+NeedsCompilation: yes
+
+Package: cinterpolate
 Version: 0.9.3
 Suggests: knitr, rmarkdown, testthat
 License: MIT + file LICENSE
 MD5sum: befdb8586b26d2422a43be8f03d45065
 NeedsCompilation: yes
+
+Package: context
+Version: 0.1.2
+Depends: R (>= 3.2.2)
+Imports: crayon, ids, storr (>= 1.1.0)
+Suggests: knitr, parallel, provisionr (>= 0.1.1), rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: cd10bc9a43ccea458d19191612636815
+NeedsCompilation: no
+
+Package: context
+Version: 0.1.3
+Depends: R (>= 3.2.2)
+Imports: crayon, ids, storr (>= 1.1.1)
+Suggests: knitr, parallel, provisionr (>= 0.1.4), rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: 1ba6a1c2f7ec302a1e92715eaee93652
+NeedsCompilation: no
 
 Package: context
 Version: 0.1.4
@@ -29,6 +68,62 @@ Suggests: DBI, RPostgres, knitr, parallel, provisionr (>= 0.1.8),
 License: MIT + file LICENSE
 MD5sum: 3620575a22d37bbab745d186e7d29e0a
 NeedsCompilation: no
+
+Package: dde
+Version: 0.0.5
+Depends: R (>= 3.0.2)
+LinkingTo: ring (>= 0.0.5)
+Suggests: deSolve, knitr, microbenchmark, rcmdshlib, rmarkdown,
+        testthat
+License: MIT + file LICENSE
+MD5sum: ee513388532e842b165e4f9658592b61
+NeedsCompilation: yes
+
+Package: dde
+Version: 0.0.6
+Depends: R (>= 3.0.2)
+LinkingTo: ring (>= 1.0.0)
+Suggests: deSolve, knitr, microbenchmark, rcmdshlib (>= 0.0.2),
+        rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: c54c909d1adf81fd1f843595f8ce91f9
+NeedsCompilation: yes
+
+Package: dde
+Version: 0.9.0
+Depends: R (>= 3.1.0)
+LinkingTo: ring (>= 1.0.0)
+Suggests: deSolve, knitr, microbenchmark, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: 01c0397cc93c185c445901bbcee3db3d
+NeedsCompilation: yes
+
+Package: dde
+Version: 0.9.1
+Depends: R (>= 3.1.0)
+LinkingTo: ring (>= 1.0.0)
+Suggests: deSolve, knitr, microbenchmark, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: 68c4e9bca006fac0a20f5ed617c368c2
+NeedsCompilation: yes
+
+Package: dde
+Version: 1.0.0
+Depends: R (>= 3.1.0)
+LinkingTo: ring (>= 1.0.0)
+Suggests: deSolve, knitr, microbenchmark, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: ac1e13c22bf1ad9ed61c6f17fa966bf0
+NeedsCompilation: yes
+
+Package: dde
+Version: 1.0.1
+Depends: R (>= 3.1.0)
+LinkingTo: ring (>= 1.0.0)
+Suggests: deSolve, knitr, microbenchmark, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: a628e67b09959d64df2eea02148eb1da
+NeedsCompilation: yes
 
 Package: dde
 Version: 1.0.2
@@ -47,6 +142,114 @@ MD5sum: f84b8eb8dbda28bad2120be99c0adb50
 NeedsCompilation: no
 
 Package: didehpc
+Version: 0.1.1
+Depends: R (>= 3.2.2)
+Imports: crayon, context (>= 0.1.3), getPass, httr (>= 1.0.0),
+        provisionr (>= 0.1.4), queuer (>= 0.1.1), rematch, storr (>=
+        1.1.1), whisker, xml2 (>= 1.0.0)
+Suggests: buildr (>= 0.0.3), drat, knitr, redux, rmarkdown, rrq (>=
+        0.1.0), syncr (>= 0.0.3), testthat
+License: MIT + file LICENSE
+MD5sum: 72d1e62ba72dd7a559c104aa36c72041
+NeedsCompilation: no
+
+Package: didehpc
+Version: 0.1.2
+Depends: R (>= 3.2.2)
+Imports: crayon, context (>= 0.1.3), getPass, httr (>= 1.0.0),
+        provisionr (>= 0.1.4), queuer (>= 0.1.1), rematch, storr (>=
+        1.1.1), whisker, xml2 (>= 1.0.0)
+Suggests: buildr (>= 0.0.3), drat, knitr, redux, rmarkdown, rrq (>=
+        0.1.0), syncr (>= 0.0.3), testthat
+License: MIT + file LICENSE
+MD5sum: 4bd74148d7caac2719600d0c276f6457
+NeedsCompilation: no
+
+Package: didehpc
+Version: 0.1.3
+Depends: R (>= 3.2.2)
+Imports: crayon, context (>= 0.1.3), getPass, httr (>= 1.0.0),
+        provisionr (>= 0.1.4), queuer (>= 0.1.1), rematch, storr (>=
+        1.1.1), whisker, xml2 (>= 1.0.0)
+Suggests: buildr (>= 0.0.3), drat, knitr, redux, rmarkdown, rrq (>=
+        0.1.0), syncr (>= 0.0.3), testthat
+License: MIT + file LICENSE
+MD5sum: 0b7ee5c40bac97d1e3fa37a7bc6616cd
+NeedsCompilation: no
+
+Package: didehpc
+Version: 0.1.4
+Depends: R (>= 3.2.2)
+Imports: crayon, context (>= 0.1.3), getPass, httr (>= 1.0.0),
+        provisionr (>= 0.1.4), queuer (>= 0.1.1), rematch, storr (>=
+        1.1.1), whisker, xml2 (>= 1.0.0)
+Suggests: buildr (>= 0.0.3), drat, knitr, redux, rmarkdown, rrq (>=
+        0.1.0), syncr (>= 0.0.3), testthat
+License: MIT + file LICENSE
+MD5sum: 7b99b7e85ba252eb5c6a6ff9980b360f
+NeedsCompilation: no
+
+Package: didehpc
+Version: 0.1.5
+Depends: R (>= 3.2.2)
+Imports: crayon, context (>= 0.1.3), getPass, httr (>= 1.0.0),
+        provisionr (>= 0.1.4), queuer (>= 0.1.1), rematch, storr (>=
+        1.1.1), whisker, xml2 (>= 1.0.0)
+Suggests: buildr (>= 0.0.3), drat, knitr, redux, rmarkdown, rrq (>=
+        0.1.0), syncr (>= 0.0.3), testthat
+License: MIT + file LICENSE
+MD5sum: da4f9bbb2679579565eaf55a715f92fb
+NeedsCompilation: no
+
+Package: didehpc
+Version: 0.1.6
+Depends: R (>= 3.2.2)
+Imports: crayon, context (>= 0.1.3), getPass, httr (>= 1.0.0),
+        provisionr (>= 0.1.4), queuer (>= 0.1.1), rematch, storr (>=
+        1.1.1), whisker, xml2 (>= 1.0.0)
+Suggests: buildr (>= 0.0.3), drat, knitr, redux, rmarkdown, rrq (>=
+        0.1.0), syncr (>= 0.0.3), testthat
+License: MIT + file LICENSE
+MD5sum: d047e2aaa97bb6cb31d4a612f96b4f66
+NeedsCompilation: no
+
+Package: didehpc
+Version: 0.2.0
+Depends: R (>= 3.2.2)
+Imports: crayon, context (>= 0.1.3), getPass, httr (>= 1.0.0),
+        provisionr (>= 0.1.4), queuer (>= 0.1.1), rematch, storr (>=
+        1.1.1), whisker, xml2 (>= 1.0.0)
+Suggests: buildr (>= 0.0.3), drat, knitr, redux, rmarkdown, rrq (>=
+        0.1.0), syncr (>= 0.0.3), testthat
+License: MIT + file LICENSE
+MD5sum: 0fd6e7fa5e394526686d1dd4d7a8d306
+NeedsCompilation: no
+
+Package: didehpc
+Version: 0.2.1
+Depends: R (>= 3.2.2)
+Imports: crayon, context (>= 0.1.3), getPass, httr (>= 1.0.0),
+        provisionr (>= 0.1.4), queuer (>= 0.1.1), rematch, storr (>=
+        1.1.1), whisker, xml2 (>= 1.0.0)
+Suggests: buildr (>= 0.0.3), drat, knitr, redux, rmarkdown, rrq (>=
+        0.1.0), syncr (>= 0.0.3), testthat
+License: MIT + file LICENSE
+MD5sum: 3b5cf7714e63d36a91617e77a31ad711
+NeedsCompilation: no
+
+Package: didehpc
+Version: 0.2.10
+Depends: R (>= 3.2.2)
+Imports: crayon, context (>= 0.1.3), getPass, httr (>= 1.0.0), jsonlite
+        (>= 1.6), provisionr (>= 0.1.4), queuer (>= 0.1.1), rematch,
+        storr (>= 1.1.1), whisker, xml2 (>= 1.0.0)
+Suggests: buildr (>= 0.0.3), drat, knitr, redux, rmarkdown, rrq (>=
+        0.1.0), syncr (>= 0.0.3), testthat
+License: MIT + file LICENSE
+MD5sum: 9b1d6964d35c0fedd06cddd2144e29a4
+NeedsCompilation: no
+
+Package: didehpc
 Version: 0.2.11
 Depends: R (>= 3.2.2)
 Imports: crayon, context (>= 0.1.3), getPass, httr (>= 1.0.0), jsonlite
@@ -58,6 +261,90 @@ License: MIT + file LICENSE
 MD5sum: ba28162ca39536a4d12851f0e4723771
 NeedsCompilation: no
 
+Package: didehpc
+Version: 0.2.2
+Depends: R (>= 3.2.2)
+Imports: crayon, context (>= 0.1.3), getPass, httr (>= 1.0.0),
+        provisionr (>= 0.1.4), queuer (>= 0.1.1), rematch, storr (>=
+        1.1.1), whisker, xml2 (>= 1.0.0)
+Suggests: buildr (>= 0.0.3), drat, knitr, redux, rmarkdown, rrq (>=
+        0.1.0), syncr (>= 0.0.3), testthat
+License: MIT + file LICENSE
+MD5sum: f454877cda1579b5b553a8e570d7bb41
+NeedsCompilation: no
+
+Package: didehpc
+Version: 0.2.3
+Depends: R (>= 3.2.2)
+Imports: crayon, context (>= 0.1.3), getPass, httr (>= 1.0.0),
+        provisionr (>= 0.1.4), queuer (>= 0.1.1), rematch, storr (>=
+        1.1.1), whisker, xml2 (>= 1.0.0)
+Suggests: buildr (>= 0.0.3), drat, knitr, redux, rmarkdown, rrq (>=
+        0.1.0), syncr (>= 0.0.3), testthat
+License: MIT + file LICENSE
+MD5sum: 5957ff883a25ca2f015bf27f08bfe9b3
+NeedsCompilation: no
+
+Package: didehpc
+Version: 0.2.4
+Depends: R (>= 3.2.2)
+Imports: crayon, context (>= 0.1.3), getPass, httr (>= 1.0.0),
+        provisionr (>= 0.1.4), queuer (>= 0.1.1), rematch, storr (>=
+        1.1.1), whisker, xml2 (>= 1.0.0)
+Suggests: buildr (>= 0.0.3), drat, knitr, redux, rmarkdown, rrq (>=
+        0.1.0), syncr (>= 0.0.3), testthat
+License: MIT + file LICENSE
+MD5sum: 3cfa38037381ba3ebef7ca0631bd8b35
+NeedsCompilation: no
+
+Package: didehpc
+Version: 0.2.5
+Depends: R (>= 3.2.2)
+Imports: crayon, context (>= 0.1.3), getPass, httr (>= 1.0.0),
+        provisionr (>= 0.1.4), queuer (>= 0.1.1), rematch, storr (>=
+        1.1.1), whisker, xml2 (>= 1.0.0)
+Suggests: buildr (>= 0.0.3), drat, knitr, redux, rmarkdown, rrq (>=
+        0.1.0), syncr (>= 0.0.3), testthat
+License: MIT + file LICENSE
+MD5sum: 901e60b7ed3122f641e55f2f60e3e867
+NeedsCompilation: no
+
+Package: didehpc
+Version: 0.2.6
+Depends: R (>= 3.2.2)
+Imports: crayon, context (>= 0.1.3), getPass, httr (>= 1.0.0),
+        provisionr (>= 0.1.4), queuer (>= 0.1.1), rematch, storr (>=
+        1.1.1), whisker, xml2 (>= 1.0.0)
+Suggests: buildr (>= 0.0.3), drat, knitr, redux, rmarkdown, rrq (>=
+        0.1.0), syncr (>= 0.0.3), testthat
+License: MIT + file LICENSE
+MD5sum: 5db6ae75f5f09effa661e1c557862ce9
+NeedsCompilation: no
+
+Package: didehpc
+Version: 0.2.7
+Depends: R (>= 3.2.2)
+Imports: crayon, context (>= 0.1.3), getPass, httr (>= 1.0.0),
+        provisionr (>= 0.1.4), queuer (>= 0.1.1), rematch, storr (>=
+        1.1.1), whisker, xml2 (>= 1.0.0)
+Suggests: buildr (>= 0.0.3), drat, knitr, redux, rmarkdown, rrq (>=
+        0.1.0), syncr (>= 0.0.3), testthat
+License: MIT + file LICENSE
+MD5sum: 8d45aa2b1a457ed8b6a680d11cc2347a
+NeedsCompilation: no
+
+Package: didehpc
+Version: 0.2.9
+Depends: R (>= 3.2.2)
+Imports: crayon, context (>= 0.1.3), getPass, httr (>= 1.0.0), jsonlite
+        (>= 1.6), provisionr (>= 0.1.4), queuer (>= 0.1.1), rematch,
+        storr (>= 1.1.1), whisker, xml2 (>= 1.0.0)
+Suggests: buildr (>= 0.0.3), drat, knitr, redux, rmarkdown, rrq (>=
+        0.1.0), syncr (>= 0.0.3), testthat
+License: MIT + file LICENSE
+MD5sum: b8edbd5130a9b7a992b33958feffd1c4
+NeedsCompilation: no
+
 Package: drat.builder
 Version: 0.1.0
 Depends: R (>= 3.2.0)
@@ -66,6 +353,15 @@ Suggests: testthat
 License: BSD_2_clause + file LICENSE
 MD5sum: 8e3b29df1d422cdceeca7bef4bad75b2
 NeedsCompilation: no
+
+Package: dust
+Version: 0.1.0
+Imports: R6, Rcpp, glue, pkgbuild
+LinkingTo: Rcpp
+Suggests: mockery, pkgload, testthat, withr
+License: MIT + file LICENSE
+MD5sum: e821981ad193ca47ebfd9ea565a78f2b
+NeedsCompilation: yes
 
 Package: dust
 Version: 0.4.6
@@ -87,11 +383,35 @@ MD5sum: 8a5381d97374e2efacdb0499539debe0
 NeedsCompilation: yes
 
 Package: jsonvalidate
+Version: 1.2.1
+Imports: V8
+Suggests: knitr, jsonlite, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: 2e979e0300639b726a8cfa133b09e0ed
+NeedsCompilation: no
+
+Package: jsonvalidate
 Version: 1.2.2
 Imports: V8
 Suggests: knitr, jsonlite, rmarkdown, testthat
 License: MIT + file LICENSE
 MD5sum: df6ae173b8cbb364f1d8501214b26b38
+NeedsCompilation: no
+
+Package: mcstate
+Version: 0.0.3
+Imports: dust (>= 0.0.2), coda, mvtnorm, viridis
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: 322f10e43c4de24033ef5f981df35478
+NeedsCompilation: no
+
+Package: mcstate
+Version: 0.2.3
+Imports: R6, dust (>= 0.4.5)
+Suggests: brio, coda, decor, mvtnorm, testthat, tibble, vctrs, withr
+License: MIT + file LICENSE
+MD5sum: cae07e0527ce30fcabc92a5f9bb5ac2b
 NeedsCompilation: no
 
 Package: mcstate
@@ -111,6 +431,14 @@ MD5sum: 3761f26a699c074fe0fb5fdd7fe82ee4
 NeedsCompilation: no
 
 Package: odin.dust
+Version: 0.0.3
+Imports: R6, dust (>= 0.0.6), odin
+Suggests: Rcpp, dde, mockery, pkgload, testthat
+License: MIT + file LICENSE
+MD5sum: 022d431ab7a54c6e6978b8927a1f6a23
+NeedsCompilation: no
+
+Package: odin.dust
 Version: 0.0.9
 Imports: R6, dust (>= 0.4.1), odin
 Suggests: brio, cpp11, decor, dde, mockery, pkgload, testthat, tibble,
@@ -120,11 +448,76 @@ MD5sum: 0e06d8e33274dbdd7506a63e5e7b2a12
 NeedsCompilation: no
 
 Package: odin.js
+Version: 0.1.6
+Imports: R6 (>= 2.4.0), V8, jsonlite, odin (>= 0.2.0)
+Suggests: deSolve, testthat
+License: MIT + file LICENSE
+MD5sum: b221b4bafdc3547378b34d89743f3d41
+NeedsCompilation: no
+
+Package: odin.js
 Version: 0.1.8
 Imports: R6 (>= 2.4.0), V8, jsonlite, odin (>= 0.2.0)
 Suggests: cinterpolate, deSolve, testthat
 License: MIT + file LICENSE
 MD5sum: be97e260e3a28c7141daadb61e13cc63
+NeedsCompilation: no
+
+Package: odin.ui
+Version: 0.1.0
+Imports: dde (>= 0.0.6), dygraphs, jsonlite, markdown, odin (>=
+        0.0.10), shiny (>= 1.0.4), shinyAce, yaml
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: bd046272387726972f5b9bb62321f1bd
+NeedsCompilation: no
+
+Package: odin.ui
+Version: 0.1.2
+Imports: dde (>= 0.0.6), dygraphs, jsonlite, markdown, odin (>=
+        0.0.10), shiny (>= 1.0.4), shinyAce, yaml
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: 8b576ea40a9180b9987189cc10005cf5
+NeedsCompilation: no
+
+Package: odin.ui
+Version: 0.1.3
+Imports: dde (>= 0.0.6), dygraphs, jsonlite, markdown, odin (>=
+        0.0.10), shiny (>= 1.0.4), shinyAce, yaml
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: 82b3951229add13bbe48253eb5601d47
+NeedsCompilation: no
+
+Package: odin.ui
+Version: 0.1.7
+Imports: dde (>= 0.0.6), dfoptim, dygraphs, ids, jsonlite, plotly (>=
+        4.9.0), markdown, odin (>= 0.2.0), shiny (>= 1.0.4), shinyAce,
+        shinycssloaders, shinyjqui, shinyjs, subplex, yaml
+Suggests: RSelenium, callr, stevedore, testthat
+License: MIT + file LICENSE
+MD5sum: e3c822ccbbe6c7aedcbed29719efaff6
+NeedsCompilation: no
+
+Package: odin.ui
+Version: 0.2.10
+Imports: dde (>= 0.0.6), dfoptim, ids, jsonlite, plotly (>= 4.9.0),
+        markdown, odin (>= 0.2.0), shiny (>= 1.0.4), shinyAce,
+        shinycssloaders, shinyjqui, shinyjs, subplex, yaml
+Suggests: RSelenium, callr, stevedore, testthat
+License: MIT + file LICENSE
+MD5sum: 3139e289cbd957b2079eed22e36521f4
+NeedsCompilation: no
+
+Package: odin.ui
+Version: 0.3.2
+Imports: dde (>= 0.0.6), dfoptim, ids, jsonlite, plotly (>= 4.9.0),
+        markdown, odin (>= 0.2.0), remotesave, shiny (>= 1.0.4),
+        shinyAce, shinycssloaders, shinyjqui, shinyjs, subplex, yaml
+Suggests: RSelenium, callr, stevedore, testthat
+License: MIT + file LICENSE
+MD5sum: 74e58187d6c0d2ebcb51cda97d1a6988
 NeedsCompilation: no
 
 Package: odin.ui
@@ -139,6 +532,118 @@ MD5sum: c77bd804bbe5e4903aae1d6d260d5ad3
 NeedsCompilation: no
 
 Package: odin
+Version: 0.0.2
+Imports: R6, cinterpolate, crayon, deSolve
+Suggests: dde (>= 0.0.5), knitr, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: 96c1427bb7eaffb0f7685912e9bd149b
+NeedsCompilation: no
+
+Package: odin
+Version: 0.0.3
+Imports: R6, cinterpolate, crayon, deSolve, digest, ring
+Suggests: dde (>= 0.0.5), knitr, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: a6a179339adb68a4f1a7c7bddc217406
+NeedsCompilation: no
+
+Package: odin
+Version: 0.0.5
+Imports: R6, cinterpolate, crayon, deSolve, digest, ring
+Suggests: dde (>= 0.0.5), knitr, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: 5799c1c2c1c9263648a9e15672c922ee
+NeedsCompilation: no
+
+Package: odin
+Version: 0.1.0
+Imports: R6, cinterpolate (>= 0.9.0), crayon, deSolve, digest, ring
+Suggests: dde (>= 0.0.5), knitr, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: 3b4bac6297f2c645c34fa27164146e41
+NeedsCompilation: no
+
+Package: odin
+Version: 0.1.1
+Imports: R6, cinterpolate (>= 0.9.0), crayon, deSolve, digest, ring
+Suggests: dde (>= 0.0.6), knitr, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: a6683dfe21e75e51db8ee7527d4f8f9e
+NeedsCompilation: no
+
+Package: odin
+Version: 0.1.2
+Imports: R6, cinterpolate (>= 0.9.0), crayon, deSolve, digest, ring
+Suggests: dde (>= 0.0.6), knitr, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: 24e63378b4b27db0abafd53502982e18
+NeedsCompilation: no
+
+Package: odin
+Version: 0.1.3
+Imports: R6, cinterpolate (>= 0.9.0), crayon, deSolve, digest, ring
+Suggests: dde (>= 0.0.6), knitr, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: 127719a493a19830ccf320f2dda7878d
+NeedsCompilation: no
+
+Package: odin
+Version: 0.2.0
+Imports: R6, cinterpolate (>= 0.9.3), crayon, deSolve, digest,
+        jsonlite, ring
+Suggests: dde (>= 0.0.6), jsonvalidate, knitr, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: 3281b4cbf239d87ded12b83a0a27e1d1
+NeedsCompilation: no
+
+Package: odin
+Version: 0.2.1
+Imports: R6, cinterpolate (>= 0.9.3), crayon, deSolve, digest,
+        jsonlite, ring
+Suggests: dde (>= 0.0.6), jsonvalidate, knitr, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: d2c9f14fc8b81e55b5f4460de0bcc75b
+NeedsCompilation: no
+
+Package: odin
+Version: 0.2.3
+Imports: R6, cinterpolate (>= 0.9.3), crayon, deSolve, digest,
+        jsonlite, ring
+Suggests: dde (>= 0.0.6), jsonvalidate, knitr, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: 800f98b600e72e3afbfabc9e5402ee26
+NeedsCompilation: no
+
+Package: odin
+Version: 0.2.4
+Imports: R6, cinterpolate (>= 0.9.3), crayon, deSolve, digest,
+        jsonlite, ring
+Suggests: dde (>= 0.0.6), jsonvalidate, knitr, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: f25a86ae9241b4584e83f634b5f2383c
+NeedsCompilation: no
+
+Package: odin
+Version: 1.0.2
+Imports: R6, cinterpolate (>= 1.0.0), crayon, deSolve, digest,
+        jsonlite, ring
+Suggests: dde (>= 1.0.0), jsonvalidate (>= 1.1.0), knitr, rmarkdown,
+        testthat
+License: MIT + file LICENSE
+MD5sum: fe2554e07bb5eb7fbf3e3c86d26b9037
+NeedsCompilation: no
+
+Package: odin
+Version: 1.0.5
+Imports: R6, cinterpolate (>= 1.0.0), crayon, deSolve, digest,
+        jsonlite, ring
+Suggests: dde (>= 1.0.0), jsonvalidate (>= 1.1.0), knitr, rmarkdown,
+        testthat
+License: MIT + file LICENSE
+MD5sum: a31b8fcaaa3ea513844790433165dc6e
+NeedsCompilation: no
+
+Package: odin
 Version: 1.0.6
 Imports: R6, cinterpolate (>= 1.0.0), crayon, deSolve, digest,
         jsonlite, ring
@@ -146,6 +651,22 @@ Suggests: dde (>= 1.0.0), jsonvalidate (>= 1.1.0), knitr, rmarkdown,
         testthat
 License: MIT + file LICENSE
 MD5sum: 192890f260f739d99d5337b2020a763c
+NeedsCompilation: no
+
+Package: pkgapi
+Version: 0.0.7
+Imports: R6, jsonlite, jsonvalidate (>= 1.2.2), plumber
+Suggests: testthat, withr
+License: MIT + file LICENSE
+MD5sum: 74a17cd142a984e24de03bd3497c552f
+NeedsCompilation: no
+
+Package: pkgapi
+Version: 0.0.8
+Imports: R6, jsonlite, jsonvalidate (>= 1.2.2), plumber
+Suggests: testthat, withr
+License: MIT + file LICENSE
+MD5sum: d9061b9ac47b47b31894bcef448faaaa
 NeedsCompilation: no
 
 Package: pkgapi
@@ -157,12 +678,129 @@ MD5sum: f386acf41ad5a900e6d6a2edd65387d7
 NeedsCompilation: no
 
 Package: provisionr
+Version: 0.1.10
+Imports: R6, curl, drat, prettyunits, progress (>= 1.2.0), remotes,
+        rversions, storr (>= 1.1.0), withr, yaml
+Suggests: testthat, zip
+License: MIT + file LICENSE
+MD5sum: 6888894102beee819104c7d8cf37488c
+NeedsCompilation: no
+
+Package: provisionr
+Version: 0.1.11
+Imports: R6, curl, drat, prettyunits, progress (>= 1.2.0), remotes,
+        rversions, storr (>= 1.1.0), withr, yaml
+Suggests: testthat, zip
+License: MIT + file LICENSE
+MD5sum: cbd0361465e41a75cec477b955651dca
+NeedsCompilation: no
+
+Package: provisionr
+Version: 0.1.12
+Imports: R6, curl, drat, prettyunits, progress (>= 1.2.0), remotes,
+        rversions, storr (>= 1.1.0), withr, yaml
+Suggests: testthat, zip
+License: MIT + file LICENSE
+MD5sum: 92057fbaec86cdf2741cdca93f22fc87
+NeedsCompilation: no
+
+Package: provisionr
 Version: 0.1.13
 Imports: R6, curl, drat, prettyunits, progress (>= 1.2.0), remotes,
         rversions, storr (>= 1.1.0), withr, yaml
 Suggests: testthat, zip
 License: MIT + file LICENSE
 MD5sum: 9909f407a24c11461fd9c5ee28aac008
+NeedsCompilation: no
+
+Package: provisionr
+Version: 0.1.14
+Imports: R6, curl, drat, prettyunits, progress (>= 1.2.0), remotes,
+        rversions, storr (>= 1.1.0), withr, yaml
+Suggests: testthat, zip
+License: MIT + file LICENSE
+MD5sum: 6df59310c414d52f6a6f9be8f51df188
+NeedsCompilation: no
+
+Package: provisionr
+Version: 0.1.3
+Imports: R6, curl, drat, prettyunits, remotes, rversions, progress,
+        storr (>= 1.1.0), withr
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: 6abb24da5cd3cd15055beed644715795
+NeedsCompilation: no
+
+Package: provisionr
+Version: 0.1.4
+Imports: R6, curl, drat, prettyunits, remotes, rversions, progress,
+        storr (>= 1.1.0), withr
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: fccb8e66305c94e02639587b4baf58a1
+NeedsCompilation: no
+
+Package: provisionr
+Version: 0.1.5
+Imports: R6, curl, drat, prettyunits, remotes, rversions, progress,
+        storr (>= 1.1.0), withr
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: b8dea18e1ffa80a4a2cd9327e32f2445
+NeedsCompilation: no
+
+Package: provisionr
+Version: 0.1.6
+Imports: R6, curl, drat, prettyunits, remotes, rversions, progress,
+        storr (>= 1.1.0), withr
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: 8351cd03e456ad53bbd3eaa9a51720e3
+NeedsCompilation: no
+
+Package: provisionr
+Version: 0.1.7
+Imports: R6, curl, drat, prettyunits, progress, remotes, rversions,
+        storr (>= 1.1.0), withr
+Suggests: testthat, zip
+License: MIT + file LICENSE
+MD5sum: 0985c6258e037a8c4604efca13a3bf38
+NeedsCompilation: no
+
+Package: provisionr
+Version: 0.1.8
+Imports: R6, curl, drat, prettyunits, progress, remotes, rversions,
+        storr (>= 1.1.0), withr, yaml
+Suggests: testthat, zip
+License: MIT + file LICENSE
+MD5sum: 2a53ffc8ac326cd6ecf997bafd7bfb68
+NeedsCompilation: no
+
+Package: provisionr
+Version: 0.1.9
+Imports: R6, curl, drat, prettyunits, progress, remotes, rversions,
+        storr (>= 1.1.0), withr, yaml
+Suggests: testthat, zip
+License: MIT + file LICENSE
+MD5sum: 1069d93590d83dc4d96ef11e57759ceb
+NeedsCompilation: no
+
+Package: queuer
+Version: 0.1.0
+Depends: R (>= 3.2.2)
+Imports: R6, context (>= 0.1.1), ids, lazyeval, progress (>= 1.1.1)
+Suggests: processx, seagull, testthat
+License: MIT + file LICENSE
+MD5sum: 981b70091447b0a60f83576d5e9aeadb
+NeedsCompilation: no
+
+Package: queuer
+Version: 0.1.1
+Depends: R (>= 3.2.2)
+Imports: R6, context (>= 0.1.3), ids, lazyeval, progress (>= 1.1.1)
+Suggests: processx, seagull, testthat
+License: MIT + file LICENSE
+MD5sum: 3fc0271fef8d82b9a22f3475b81cf08b
 NeedsCompilation: no
 
 Package: queuer
@@ -183,12 +821,53 @@ MD5sum: ccd375c625c0c1830f204bf27bc01c98
 NeedsCompilation: no
 
 Package: rrq
+Version: 0.1.0
+Imports: R6, context (>= 0.1.1), ids, lazyeval, queuer (>= 0.1.0),
+        redux (>= 0.5.1)
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: 41a96618f7057791edb049bbab747ba5
+NeedsCompilation: no
+
+Package: rrq
 Version: 0.1.2
 Imports: R6, context (>= 0.1.4), ids, lazyeval, queuer (>= 0.1.0),
         redux (>= 1.0.0)
 Suggests: heartbeatr, testthat
 License: MIT + file LICENSE
 MD5sum: a6f4e719e06e1eabbf64466e8c8814f0
+NeedsCompilation: no
+
+Package: specio
+Version: 0.1.0
+Imports: beers, xml2, yaml
+Suggests: testthat, knitr, rmarkdown
+License: GPL-3
+MD5sum: 0e17906cb509aabf6fd1f6df1efae3dd
+NeedsCompilation: no
+
+Package: specio
+Version: 0.1.1
+Imports: beers, xml2, yaml
+Suggests: testthat, knitr, rmarkdown
+License: GPL-3
+MD5sum: 23e0462f3083a8586467d78154048886
+NeedsCompilation: no
+
+Package: specio
+Version: 0.1.2
+Imports: beers, xml2, yaml
+Suggests: testthat, knitr, rmarkdown
+License: GPL-3
+MD5sum: 5dcb5b50283c23d2adea4ef49640da89
+NeedsCompilation: no
+
+Package: specio
+Version: 0.1.3
+Imports: beers, xml2, yaml
+Suggests: mockery, testthat, knitr, rmarkdown
+License: GPL-3
+MD5sum: ebdc5a53305511bdc159b92e4d48fe6e
 NeedsCompilation: no
 
 Package: specio
@@ -200,10 +879,41 @@ MD5sum: 1375ce2fe49ddc8765c605335d32275e
 NeedsCompilation: no
 
 Package: syncr
+Version: 0.0.1
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: 8bfcf84db8c2efb9e7380add1d2f15b8
+NeedsCompilation: no
+
+Package: syncr
 Version: 0.0.3
 Suggests: testthat
 License: MIT + file LICENSE
 MD5sum: 5b221231a79dbaef179a6b9812d8a540
+NeedsCompilation: no
+
+Package: traduire
+Version: 0.0.1
+Imports: V8, R6
+Suggests: jsonlite, knitr, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: 4bc6022221bd3c3e1f8c277cf004fcc3
+NeedsCompilation: no
+
+Package: traduire
+Version: 0.0.3
+Imports: V8, R6, glue
+Suggests: jsonlite, knitr, mockery, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: 7964c9ab55a3d5ea43e533919f59b573
+NeedsCompilation: no
+
+Package: traduire
+Version: 0.0.4
+Imports: V8, R6, glue
+Suggests: jsonlite, knitr, mockery, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: b0516ada81006e5e2cb1f8901fd1c924
 NeedsCompilation: no
 
 Package: traduire
@@ -212,6 +922,46 @@ Imports: V8, R6, glue
 Suggests: jsonlite, knitr, mockery, rmarkdown, testthat
 License: MIT + file LICENSE
 MD5sum: 0a2cea11050481efbee01320570f5b60
+NeedsCompilation: no
+
+Package: vaultr
+Version: 0.0.3
+Imports: R6, httr, jsonlite, prettyunits
+Suggests: cyphr, processx, testthat, withr
+License: MIT + file LICENSE
+MD5sum: 8db4ff59e0e0efe28f23e79864693d08
+NeedsCompilation: no
+
+Package: vaultr
+Version: 0.2.4
+Imports: R6, getPass, httr, jsonlite
+Suggests: knitr, mockery, processx, rmarkdown, testthat, withr
+License: MIT + file LICENSE
+MD5sum: 0bfd6ee0dc719164b44d5590924365ba
+NeedsCompilation: no
+
+Package: vaultr
+Version: 1.0.1
+Imports: R6, getPass, httr, jsonlite
+Suggests: knitr, mockery, processx, rmarkdown, testthat, withr
+License: MIT + file LICENSE
+MD5sum: 027626a1e9c04b3904ff88377bc76392
+NeedsCompilation: no
+
+Package: vaultr
+Version: 1.0.2
+Imports: R6, getPass, httr, jsonlite
+Suggests: knitr, mockery, processx, rmarkdown, testthat, withr
+License: MIT + file LICENSE
+MD5sum: 319092d83ab87d229f368511e084952b
+NeedsCompilation: no
+
+Package: vaultr
+Version: 1.0.3
+Imports: R6, getPass, httr, jsonlite
+Suggests: knitr, mockery, processx, rmarkdown, testthat, withr
+License: MIT + file LICENSE
+MD5sum: 5cd572edf213f2f2949ed12b23864bd2
 NeedsCompilation: no
 
 Package: vaultr
