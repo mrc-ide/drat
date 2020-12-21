@@ -2,7 +2,7 @@ Package: beers
 Version: 0.1.0
 Suggests: knitr, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: fa4f7f8e7464755fc49d3d42b50cd92c
+MD5sum: 0ad880cd2cf28e77aa02544a8a8b8433
 NeedsCompilation: no
 
 Package: buildr
