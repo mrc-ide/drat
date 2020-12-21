@@ -131,7 +131,7 @@ Depends: R (>= 3.1.0)
 LinkingTo: ring (>= 1.0.0)
 Suggests: deSolve, knitr, microbenchmark, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: 7b4f4c4b6c95e333333a3ff2cb85f84c
+MD5sum: 68ccf12a62d971ca8d3e57fbf006539f
 NeedsCompilation: yes
 
 Package: defer
