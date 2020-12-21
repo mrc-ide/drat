@@ -536,7 +536,7 @@ Imports: dde (>= 0.0.6), dfoptim, ids, jsonlite, plotly (>= 4.9.0),
         subplex, yaml
 Suggests: RSelenium, callr, stevedore, testthat
 License: MIT + file LICENSE
-MD5sum: c77bd804bbe5e4903aae1d6d260d5ad3
+MD5sum: 2ee94fd285b63e830a15892d97e64055
 NeedsCompilation: no
 
 Package: odin
