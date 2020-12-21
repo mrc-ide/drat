@@ -471,6 +471,14 @@ License: MIT + file LICENSE
 MD5sum: be97e260e3a28c7141daadb61e13cc63
 NeedsCompilation: no
 
+Package: odin.js
+Version: 0.1.9
+Imports: R6 (>= 2.4.0), V8, jsonlite, odin (>= 0.2.0)
+Suggests: cinterpolate, deSolve, testthat
+License: MIT + file LICENSE
+MD5sum: dd81f46ccc08056741a4cd9bf60803a1
+NeedsCompilation: no
+
 Package: odin.ui
 Version: 0.1.0
 Imports: dde (>= 0.0.6), dygraphs, jsonlite, markdown, odin (>=
