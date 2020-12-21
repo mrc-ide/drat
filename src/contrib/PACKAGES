@@ -382,6 +382,14 @@ License: BSD_2_clause + file LICENSE
 MD5sum: 8a5381d97374e2efacdb0499539debe0
 NeedsCompilation: yes
 
+Package: heartbeatr
+Version: 0.4.1
+Imports: R6, redux (>= 1.0.0)
+Suggests: processx, testthat
+License: MIT + file LICENSE
+MD5sum: e63b7d5f47dcbf0807a0c1adb5948353
+NeedsCompilation: yes
+
 Package: jsonvalidate
 Version: 1.2.1
 Imports: V8
