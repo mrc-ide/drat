@@ -397,7 +397,7 @@ Version: 0.4.1
 Imports: R6, redux (>= 1.0.0)
 Suggests: processx, testthat
 License: MIT + file LICENSE
-MD5sum: e63b7d5f47dcbf0807a0c1adb5948353
+MD5sum: 69ee2bb18fca2d988fba97009a4b18ba
 NeedsCompilation: yes
 
 Package: jsonvalidate
