@@ -422,7 +422,7 @@ Version: 1.2.2
 Imports: V8
 Suggests: knitr, jsonlite, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: 5aecc15f8d06ad7708d2d1e8fa198e6d
+MD5sum: 8d31b567779d0c452992be5b908ca23b
 NeedsCompilation: no
 
 Package: mcstate
