@@ -762,6 +762,16 @@ MD5sum: 0db829ebcacecc505a931e5c23814257
 NeedsCompilation: no
 
 Package: odin
+Version: 1.1.12
+Imports: R6, cinterpolate (>= 1.0.0), deSolve, digest, glue, jsonlite,
+        ring, withr
+Suggests: dde (>= 1.0.0), jsonvalidate (>= 1.1.0), knitr, mockery,
+        pkgbuild, pkgload, rlang, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: 030273b97aa9038c4b88bbcddc79d5d2
+NeedsCompilation: no
+
+Package: odin
 Version: 1.1.4
 Imports: R6, cinterpolate (>= 1.0.0), deSolve, digest, glue, jsonlite,
         ring, withr
