@@ -1016,10 +1016,11 @@ NeedsCompilation: no
 
 Package: specio
 Version: 0.1.4
+Depends: R (>= 3.5.0)
 Imports: beers, xml2, yaml
 Suggests: mockery, testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 1375ce2fe49ddc8765c605335d32275e
+MD5sum: 9f393673c62b98069c119b5ab5aaee4a
 NeedsCompilation: no
 
 Package: syncr
