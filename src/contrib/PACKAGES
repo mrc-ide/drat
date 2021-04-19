@@ -459,6 +459,14 @@ License: MIT + file LICENSE
 MD5sum: 0722739c297ccc7465c9b2bd531e18ee
 NeedsCompilation: no
 
+Package: heartbeatr
+Version: 0.6.0
+Imports: R6, redux (>= 1.0.0)
+Suggests: processx, testthat
+License: MIT + file LICENSE
+MD5sum: 0df162879a29cb28d80eddf8ca81e142
+NeedsCompilation: yes
+
 Package: jsonvalidate
 Version: 1.2.1
 Imports: V8
