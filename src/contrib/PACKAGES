@@ -69,6 +69,16 @@ License: MIT + file LICENSE
 MD5sum: 3620575a22d37bbab745d186e7d29e0a
 NeedsCompilation: no
 
+Package: context
+Version: 0.3.0
+Depends: R (>= 3.2.0)
+Imports: crayon, ids, storr (>= 1.1.1)
+Suggests: callr, knitr, mockery, parallel, redux, rmarkdown, testthat,
+        withr
+License: MIT + file LICENSE
+MD5sum: b82ecfeb30bdb31cd35adefb2060adda
+NeedsCompilation: no
+
 Package: dde
 Version: 0.0.5
 Depends: R (>= 3.0.2)
