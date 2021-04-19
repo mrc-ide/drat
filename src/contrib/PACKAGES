@@ -995,6 +995,15 @@ License: MIT + file LICENSE
 MD5sum: 8cbc35373555fb9a8ede938f0f623599
 NeedsCompilation: no
 
+Package: queuer
+Version: 0.3.0
+Depends: R (>= 3.2.2)
+Imports: R6, context (>= 0.3.0), ids, lazyeval, progress (>= 1.1.1)
+Suggests: callr, storr, testthat, thor
+License: MIT + file LICENSE
+MD5sum: 93c7509f6a588687f97ab7caf9c3ec72
+NeedsCompilation: no
+
 Package: rcmdshlib
 Version: 0.0.2
 Imports: crayon
