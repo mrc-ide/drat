@@ -41,6 +41,14 @@ License: MIT + file LICENSE
 MD5sum: befdb8586b26d2422a43be8f03d45065
 NeedsCompilation: yes
 
+Package: conan
+Version: 0.1.0
+Suggests: callr, docopt, mockery, pkgcache, pkgdepends (>= 0.1.0),
+        progress, testthat, withr
+License: MIT + file LICENSE
+MD5sum: 6acbd446e04ab4815c41ff9a23eafa80
+NeedsCompilation: no
+
 Package: context
 Version: 0.1.2
 Depends: R (>= 3.2.2)
