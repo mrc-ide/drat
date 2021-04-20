@@ -5,9 +5,10 @@ mrc-ide/provisionr
 mrc-ide/context
 mrc-ide/queuer
 mrc-ide/didehpc {"vignettes": false}
+mrc-ide/conan
 
 mrc-ide/heartbeatr
-mrc-ide/rrq@v0.1.2
+mrc-ide/rrq
 mrc-ide/syncr@09d2cda
 mrc-ide/buildr@bf8d9ee
 
