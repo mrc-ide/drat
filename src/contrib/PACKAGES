@@ -1096,6 +1096,14 @@ License: MIT + file LICENSE
 MD5sum: 09cc33b256e015887ad08eb6bad57bc5
 NeedsCompilation: no
 
+Package: rrq
+Version: 0.3.2
+Imports: R6, docopt, ids, progress, redux (>= 1.0.0)
+Suggests: callr, mockery, processx, storr, testthat
+License: MIT + file LICENSE
+MD5sum: 58fe65c8cbc22f90816d87afddbcb249
+NeedsCompilation: no
+
 Package: specio
 Version: 0.1.0
 Imports: beers, xml2, yaml
