@@ -462,6 +462,16 @@ License: MIT + file LICENSE
 MD5sum: 9363c9bb6f1be900846c5e87dd423e38
 NeedsCompilation: yes
 
+Package: dust
+Version: 0.9.2
+Imports: R6, cpp11 (>= 0.2.6), glue, pkgbuild (>= 1.2.0), pkgload,
+        withr
+LinkingTo: cpp11
+Suggests: bench, brio, decor, fs, knitr, mockery, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: e895d17626ffb738e313ba520d80bbbe
+NeedsCompilation: yes
+
 Package: heartbeatr
 Version: 0.4.0
 Depends: R (>= 3.1.2)
