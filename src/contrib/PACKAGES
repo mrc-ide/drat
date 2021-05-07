@@ -393,7 +393,7 @@ Imports: conan, crayon, context (>= 0.3.0), getPass, glue, httr (>=
 Suggests: R6, callr, knitr, mockery, pkgdepends (>= 0.1.0), redux,
         rmarkdown, rrq (>= 0.2.19), testthat, withr
 License: MIT + file LICENSE
-MD5sum: 766972c936457277b368d029f8f912e9
+MD5sum: e3c468650019a3b5243372713f13afa8
 NeedsCompilation: no
 
 Package: drat.builder
