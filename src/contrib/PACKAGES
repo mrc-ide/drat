@@ -1344,3 +1344,11 @@ Suggests: knitr, mockery, processx, rmarkdown, testthat, withr
 License: MIT + file LICENSE
 MD5sum: da7c59c7368f340207ce81e051f8f195
 NeedsCompilation: no
+
+Package: vaultr
+Version: 1.1.0
+Imports: R6, getPass, httr, jsonlite
+Suggests: knitr, mockery, processx, rmarkdown, testthat, withr
+License: MIT + file LICENSE
+MD5sum: 980dc74e8bcf25471340d66d5b9745f7
+NeedsCompilation: no
