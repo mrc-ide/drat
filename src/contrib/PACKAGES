@@ -1069,6 +1069,16 @@ License: MIT + file LICENSE
 MD5sum: a9ad7d0f5b0af90045cb517e07e12d3b
 NeedsCompilation: no
 
+Package: porcelain
+Version: 0.1.7
+Depends: R (>= 3.6.0)
+Imports: R6, V8, jsonlite, jsonvalidate (>= 1.2.2), plumber
+Suggests: callr, fs, httr, knitr, lgr, mockery, pkgload, rmarkdown,
+        roxygen2, testthat, withr
+License: MIT + file LICENSE
+MD5sum: 5d13c252be584f41844d570c2e37dab0
+NeedsCompilation: no
+
 Package: provisionr
 Version: 0.1.10
 Imports: R6, curl, drat, prettyunits, progress (>= 1.2.0), remotes,
