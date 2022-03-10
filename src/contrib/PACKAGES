@@ -613,6 +613,14 @@ License: MIT + file LICENSE
 MD5sum: 12aa5abaa90f9053330cc9f9f29eab81
 NeedsCompilation: no
 
+Package: jsonvalidate
+Version: 1.4.0
+Imports: R6, V8
+Suggests: knitr, jsonlite, rmarkdown, testthat, withr
+License: MIT + file LICENSE
+MD5sum: e8149fdeecd54b74a6720e29914ddf84
+NeedsCompilation: no
+
 Package: mcstate
 Version: 0.0.3
 Imports: dust (>= 0.0.2), coda, mvtnorm, viridis
