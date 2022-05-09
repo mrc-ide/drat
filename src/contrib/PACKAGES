@@ -1406,7 +1406,7 @@ Imports: R6, docopt, ids, openssl, progress, redux (>= 1.0.0)
 Suggests: callr (>= 3.7.0), knitr, markdown, mockery, processx,
         rmarkdown, storr, testthat, withr
 License: MIT + file LICENSE
-MD5sum: 674d5c615ffe036b821d52804f552ab0
+MD5sum: a0a2c512d75f6a6f7916b468a9d4ff3d
 NeedsCompilation: no
 
 Package: specio
