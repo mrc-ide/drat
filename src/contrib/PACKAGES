@@ -405,6 +405,18 @@ MD5sum: 327076c8802609774cb024294b510aed
 NeedsCompilation: no
 
 Package: didehpc
+Version: 0.3.11
+Depends: R (>= 3.2.2)
+Imports: conan (>= 0.1.1), crayon, context (>= 0.3.0), getPass, glue,
+        httr (>= 1.0.0), ids, jsonlite (>= 1.6), queuer (>= 0.3.0),
+        rematch, storr (>= 1.1.1), xml2 (>= 1.0.0)
+Suggests: R6, callr, knitr, mockery, pkgdepends (>= 0.1.0), redux,
+        rmarkdown, rrq (>= 0.5.0), testthat, withr
+License: MIT + file LICENSE
+MD5sum: 9a3509c7b95f2c0704199b3af06513a2
+NeedsCompilation: no
+
+Package: didehpc
 Version: 0.3.3
 Depends: R (>= 3.2.2)
 Imports: conan, crayon, context (>= 0.3.0), getPass, glue, httr (>=
