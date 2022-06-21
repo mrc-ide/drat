@@ -1160,6 +1160,16 @@ License: MIT + file LICENSE
 MD5sum: 0c0a9ff8b5b792f804af84266f3263c6
 NeedsCompilation: no
 
+Package: odin
+Version: 1.3.5
+Imports: R6, cinterpolate (>= 1.0.0), deSolve, digest, glue, jsonlite,
+        ring, withr
+Suggests: V8, dde (>= 1.0.0), jsonvalidate (>= 1.1.0), knitr, mockery,
+        pkgbuild, pkgload, rlang, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: a2913c56afa14f9e6d716afc50f07b2c
+NeedsCompilation: no
+
 Package: pkgapi
 Version: 0.0.7
 Imports: R6, jsonlite, jsonvalidate (>= 1.2.2), plumber
