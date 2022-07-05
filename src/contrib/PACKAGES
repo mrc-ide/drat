@@ -834,6 +834,14 @@ License: MIT + file LICENSE
 MD5sum: 00d11b3b90b677bbaed307e7724e3cd2
 NeedsCompilation: no
 
+Package: mode
+Version: 0.1.4
+Imports: R6, cpp11, dust, glue, pkgbuild (>= 1.2.0), pkgload
+Suggests: decor, dde, mockery, testthat (>= 3.0.0)
+License: MIT + file LICENSE
+MD5sum: a2d596aca0df85e0a34553bab07e12b5
+NeedsCompilation: no
+
 Package: nomad
 Version: 0.0.1
 Imports: provisionr (>= 0.1.5), yaml, utils
