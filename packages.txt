@@ -28,9 +28,10 @@ mrc-ide/beers
 mrc-ide/specio
 reside-ic/traduire
 reside-ic/defer
-reside-ic/pkgapi
+reside-ic/porcelain
 
 ropensci/jsonvalidate
+
 
 # sircovid support
 mrc-ide/dust {"vignettes": false}
