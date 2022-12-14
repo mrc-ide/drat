@@ -1007,7 +1007,7 @@ Version: 0.1.11
 Imports: R6 (>= 2.4.0), V8, jsonlite, odin (>= 1.2.2)
 Suggests: cinterpolate, deSolve, testthat
 License: MIT + file LICENSE
-MD5sum: 7524179bfdf43bc639ca95c36e345dc5
+MD5sum: 833e561f65cb7eb2735f702f3a23c3d3
 NeedsCompilation: no
 
 Package: odin.js
