@@ -1365,6 +1365,16 @@ MD5sum: a9ad7d0f5b0af90045cb517e07e12d3b
 NeedsCompilation: no
 
 Package: porcelain
+Version: 0.1.15
+Depends: R (>= 3.6.0)
+Imports: R6, V8, jsonlite, jsonvalidate (>= 1.2.2), plumber
+Suggests: callr, fs, httr, knitr, lgr, mockery, pkgload, rmarkdown,
+        roxygen2, testthat, withr
+License: MIT + file LICENSE
+MD5sum: f13903ed4144242a35b6855f42275b0c
+NeedsCompilation: no
+
+Package: porcelain
 Version: 0.1.7
 Depends: R (>= 3.6.0)
 Imports: R6, V8, jsonlite, jsonvalidate (>= 1.2.2), plumber
