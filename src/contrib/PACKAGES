@@ -179,6 +179,15 @@ License: MIT + file LICENSE
 MD5sum: 2f301035aa6c0b2617bd3fbed225aefd
 NeedsCompilation: yes
 
+Package: dde
+Version: 1.0.4
+Depends: R (>= 3.1.0)
+LinkingTo: ring (>= 1.0.0)
+Suggests: deSolve, knitr, microbenchmark, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: a36cf9815b96b846f390c9390a927d8e
+NeedsCompilation: yes
+
 Package: defer
 Version: 0.1.0
 Suggests: testthat
