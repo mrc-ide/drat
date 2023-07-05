@@ -816,7 +816,7 @@ Version: 1.4.1
 Imports: R6, V8
 Suggests: knitr, jsonlite, rmarkdown, testthat, withr
 License: MIT + file LICENSE
-MD5sum: 3fea918ee51b3778231a9c76644fb6bf
+MD5sum: 9403281272170ec1629fbc5fa4760fd3
 NeedsCompilation: no
 
 Package: mcstate
